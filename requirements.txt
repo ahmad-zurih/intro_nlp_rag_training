@@ -4,3 +4,11 @@ chromadb
 pdfplumber
 tqdm
 nltk
+dill
+datasets
+transformers
+evaluate
+torch
+accelerate
+scikit-learn
+spacy

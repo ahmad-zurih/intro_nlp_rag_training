@@ -3,4 +3,6 @@
 test_trainer
 venv
 api-key
+cc.en.300.bin
+embedding_1m_word.bin
 
