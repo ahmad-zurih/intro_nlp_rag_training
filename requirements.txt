@@ -12,3 +12,5 @@ torch
 accelerate
 scikit-learn
 spacy
+"mcp[cli]"
+
